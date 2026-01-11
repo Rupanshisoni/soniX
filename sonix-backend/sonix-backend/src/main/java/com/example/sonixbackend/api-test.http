@@ -1,0 +1,6 @@
+POST http://localhost:9090/api/ai/ask
+Content-Type: application/json
+
+{
+  "message": "Explain recursion in simple words"
+}
